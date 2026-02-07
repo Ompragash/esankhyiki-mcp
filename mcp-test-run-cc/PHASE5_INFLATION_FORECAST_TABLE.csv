@@ -1,0 +1,37 @@
+Month,Year,Date,CPI_Index_Forecast,Lower_95_CI,Upper_95_CI,Lower_80_CI,Upper_80_CI,YoY_Inflation_Rate,Scenario,Model,Sector,Notes
+FEB,2025,2025-02-28,107.84,106.63,109.04,107.13,108.55,-0.38%,Base,Ensemble,Combined,Post-peak seasonal decline
+MAR,2025,2025-03-31,107.96,106.59,109.34,107.22,108.71,-0.16%,Base,Ensemble,Combined,Seasonal valley continuing
+APR,2025,2025-04-30,108.23,106.72,109.75,107.51,109.04,0.12%,Base,Ensemble,Combined,Spring recovery beginning
+MAY,2025,2025-05-31,108.23,106.65,109.80,107.48,109.02,0.13%,Base,Ensemble,Combined,Pre-monsoon stabilization
+JUN,2025,2025-06-30,108.02,106.39,109.66,107.20,108.85,-0.05%,Base,Ensemble,Combined,Monsoon begins transition
+JUL,2025,2025-07-31,107.90,106.21,109.60,107.04,108.76,-0.14%,Base,Ensemble,Combined,Monsoon in progress
+AUG,2025,2025-08-31,108.13,106.39,109.88,107.27,108.99,0.09%,Base,Ensemble,Combined,Post-monsoon recovery begins
+SEP,2025,2025-09-30,108.39,106.59,110.19,107.53,109.25,0.34%,Base,Ensemble,Combined,Recovery phase accelerating
+OCT,2025,2025-10-31,109.13,107.28,110.99,108.30,109.96,1.05%,Base,Ensemble,Combined,Post-harvest inflation recovery
+NOV,2025,2025-11-30,109.50,107.60,111.40,108.64,110.36,1.40%,Base,Ensemble,Combined,Winter vegetables abundant and priced
+DEC,2025,2025-12-31,109.86,107.97,111.76,108.98,110.74,1.71%,Base,Ensemble,Combined,Year-end peak season
+JAN,2026,2026-01-31,109.86,107.97,111.76,108.98,110.74,1.71%,Base,Ensemble,Combined,Peak seasonal inflation period
+FEB,2025,2025-02-28,106.76,105.55,107.97,106.24,107.28,-0.69%,Optimistic,Ensemble,Combined,Strong monsoon scenario - early deflation
+MAR,2025,2025-03-31,107.06,105.80,108.31,106.51,107.60,-0.41%,Optimistic,Ensemble,Combined,Optimistic - continued low inflation
+APR,2025,2025-04-30,107.24,105.97,108.50,106.68,107.79,-0.24%,Optimistic,Ensemble,Combined,Optimistic scenario path
+MAY,2025,2025-05-31,107.20,105.92,108.48,106.65,107.75,-0.28%,Optimistic,Ensemble,Combined,Pre-monsoon optimistic case
+JUN,2025,2025-06-30,106.95,105.64,108.26,106.42,107.48,-0.51%,Optimistic,Ensemble,Combined,Strong monsoon begins - lower inflation
+JUL,2025,2025-07-31,106.80,105.48,108.12,106.27,107.32,-0.65%,Optimistic,Ensemble,Combined,Monsoon in progress - optimistic
+AUG,2025,2025-08-31,106.99,105.67,108.31,106.46,107.51,-0.47%,Optimistic,Ensemble,Combined,Post-monsoon optimistic recovery
+SEP,2025,2025-09-27,107.21,105.89,108.53,106.68,107.73,-0.27%,Optimistic,Ensemble,Combined,Optimistic recovery phase
+OCT,2025,2025-10-31,107.93,106.61,109.25,107.40,108.45,0.40%,Optimistic,Ensemble,Combined,Optimistic - post-harvest
+NOV,2025,2025-11-30,108.26,106.94,109.58,107.73,108.78,0.71%,Optimistic,Ensemble,Combined,Optimistic winter inflation
+DEC,2025,2025-12-31,108.63,107.31,109.95,108.10,109.15,0.95%,Optimistic,Ensemble,Combined,Optimistic year-end (low end)
+JAN,2026,2026-01-31,108.63,107.31,109.95,108.10,109.15,0.95%,Optimistic,Ensemble,Combined,Optimistic peak (below normal)
+FEB,2025,2025-02-28,108.46,107.25,109.67,107.95,109.07,0.89%,Pessimistic,Ensemble,Combined,Poor monsoon scenario begins
+MAR,2025,2025-03-31,108.86,107.65,110.06,108.35,109.46,1.27%,Pessimistic,Ensemble,Combined,Pessimistic - higher inflation
+APR,2025,2025-04-30,109.22,108.01,110.42,108.71,109.82,1.60%,Pessimistic,Ensemble,Combined,Pessimistic scenario path
+MAY,2025,2025-05-31,109.26,108.05,110.46,108.75,109.86,1.64%,Pessimistic,Ensemble,Combined,Pre-monsoon pessimistic case
+JUN,2025,2025-06-30,109.09,107.88,110.29,108.58,109.69,1.48%,Pessimistic,Ensemble,Combined,Poor monsoon outlook - higher inflation
+JUL,2025,2025-07-31,109.01,107.80,110.21,108.50,109.61,1.40%,Pessimistic,Ensemble,Combined,Monsoon failure impacts - persistent inflation
+AUG,2025,2025-08-31,109.28,108.07,110.48,108.77,109.88,1.66%,Pessimistic,Ensemble,Combined,Post-monsoon pessimistic scenario
+SEP,2025,2025-09-27,109.56,108.35,110.76,109.05,110.16,1.92%,Pessimistic,Ensemble,Combined,Pessimistic - supply tightness
+OCT,2025,2025-10-31,110.35,109.14,111.55,109.84,110.95,2.65%,Pessimistic,Ensemble,Combined,Pessimistic - severe inflation
+NOV,2025,2025-11-30,110.74,109.53,111.94,110.23,111.34,3.01%,Pessimistic,Ensemble,Combined,Pessimistic year-end (high scenario)
+DEC,2025,2025-12-31,110.74,109.53,111.94,110.23,111.34,3.01%,Pessimistic,Ensemble,Combined,Pessimistic peak inflation
+JAN,2026,2026-01-31,110.74,109.53,111.94,110.23,111.34,3.01%,Pessimistic,Ensemble,Combined,Pessimistic sustained high inflation

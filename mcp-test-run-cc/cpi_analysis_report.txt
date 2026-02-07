@@ -1,0 +1,83 @@
+================================================================================
+PHASE 3: CPI DATA PROCESSING & STATISTICAL ANALYSIS REPORT
+================================================================================
+
+SECTION 1: DATA SUMMARY TABLE
+--------------------------------------------------------------------------------
+                 Period Inflation Avg Std Dev     Min     Max  Count
+0          2020 (COVID)       100.07%   1.02%   97.07  103.08    252
+1  2021-2022 (Recovery)       103.17%   1.67%   98.56  107.43    504
+2    2023-2024 (Normal)       107.25%   1.27%  103.74  110.00    504
+3         2025 (Recent)       109.59%   0.48%  108.43  110.00     21
+
+SECTION 2: KEY STATISTICS
+--------------------------------------------------------------------------------
+Overall Mean Index: 104.27
+Overall Std Dev: 3.14
+Min Value: 97.07
+Max Value: 110.00
+Total Records: 1281
+Date Range: 2020-01-01 to 2025-01-01
+
+SECTION 3: COMPONENT BREAKDOWN (Latest)
+--------------------------------------------------------------------------------
+                          Group Weight Current Index Contribution
+0            Food and Beverages  45.1%        110.00       49.61%
+1  Pan, Tobacco and Intoxicants   2.6%        109.36        2.84%
+2         Clothing and Footwear   7.4%        109.76        8.12%
+3                       Housing  10.8%        109.62       11.84%
+4                Fuel and Light   6.1%        109.57        6.68%
+5                 Miscellaneous  28.0%        109.20       30.58%
+
+SECTION 4: RURAL VS URBAN ANALYSIS
+--------------------------------------------------------------------------------
+rural_mean: 104.29
+urban_mean: 104.25
+gap: -0.04
+rural_volatility: 3.14
+urban_volatility: 3.15
+
+SECTION 5: VOLATILITY ANALYSIS
+--------------------------------------------------------------------------------
+Rural:
+  Std Dev: 3.14
+  CV: 0.030
+Combined:
+  Std Dev: 3.13
+  CV: 0.030
+Urban:
+  Std Dev: 3.15
+  CV: 0.030
+
+SECTION 6: SEASONALITY PATTERNS
+--------------------------------------------------------------------------------
+January: Mean=104.60, StdDev=3.84, Count=126
+February: Mean=104.27, StdDev=3.40, Count=105
+March: Mean=104.62, StdDev=3.29, Count=105
+April: Mean=104.75, StdDev=3.17, Count=105
+May: Mean=104.46, StdDev=3.12, Count=105
+June: Mean=104.15, StdDev=3.04, Count=105
+July: Mean=103.59, StdDev=2.90, Count=105
+August: Mean=103.38, StdDev=2.98, Count=105
+September: Mean=103.47, StdDev=2.91, Count=105
+October: Mean=103.83, StdDev=2.86, Count=105
+November: Mean=104.65, StdDev=2.73, Count=105
+December: Mean=105.39, StdDev=2.61, Count=105
+
+SECTION 7: RECENT TRENDS (Last 12 Months)
+--------------------------------------------------------------------------------
+        Date   Index YoY Inflation
+0   Feb 2024  108.14           N/A
+1   Mar 2024  108.53           N/A
+2   Apr 2024  108.76           N/A
+3   May 2024  108.19           N/A
+4   Jun 2024  108.04           N/A
+5   Jul 2024  106.73           N/A
+6   Aug 2024  107.65           N/A
+7   Sep 2024  107.85           N/A
+8   Oct 2024  108.03           N/A
+9   Nov 2024  107.50           N/A
+10  Dec 2024  109.23           N/A
+11  Jan 2025  109.41           N/A
+
+================================================================================
