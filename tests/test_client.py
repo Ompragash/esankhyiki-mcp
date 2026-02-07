@@ -19,19 +19,18 @@ async def test_server():
             print(f"   - {tool.name}")
         print(f"\n   Total: {len(tools)} tools\n")
 
-        # Test 2: Call know_about_mospi_api
-        print("🔍 Testing know_about_mospi_api...")
-        result = await client.call_tool("know_about_mospi_api", {})
+        # Test 2: Call 1_know_about_mospi_api
+        print("🔍 Testing 1_know_about_mospi_api...")
+        result = await client.call_tool("1_know_about_mospi_api", {})
         print(f"   ✅ Success! Got {len(str(result))} characters of documentation\n")
 
-        # Test 3: Call lookup_mospi_codes
-        print("🔍 Testing lookup_mospi_codes...")
+        # Test 3: Call 2_get_indicators
+        print("🔍 Testing 2_get_indicators...")
         result = await client.call_tool(
-            "lookup_mospi_codes",
+            "2_get_indicators",
             {
                 "dataset": "PLFS",
-                "category": "State",
-                "search_term": "rajasthan"
+                "user_query": "test query"
             }
         )
         print(f"   ✅ Success! Result: {result}\n")
